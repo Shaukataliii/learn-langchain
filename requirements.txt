@@ -1,0 +1,8 @@
+ensure
+streamlit
+langchain
+langchain-community
+langchain-openai
+
+openai
+ollama
